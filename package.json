@@ -1,0 +1,16 @@
+{
+  "name": "adsum-app",
+  "version": "1.0.0",
+  "description": "Asistente escolar",
+  "license": "ISC",
+  "author": "Luis",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "algo fallo correctamente"
+  },
+  "dependencies": {
+    "electron": "^42.5.0"
+  }
+}
