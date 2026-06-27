@@ -6,7 +6,6 @@ const createWindow = () => {
         height: 600
     });
 
-    // Carga la ruta de tu servidor local apuntando al archivo Actividad1.php
     win.loadURL('http://localhost/DeportesWeb/Actividad1.php');
 };
 
